@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e178411-22d5-46d3-bfa5-ac29cf6cf2a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/getArticle.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/getArticle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +31,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.getArticle">
     <configuration name="Compare" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="newsracer" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,6 +78,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="getArticle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="newsracer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/getArticle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="newsracer" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,6 +124,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.getArticle" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.UserInterface" />
         <item itemvalue="Python.Compare" />
@@ -120,12 +145,31 @@
       <workItem from="1588949700762" duration="43000" />
       <workItem from="1589656465408" duration="4085000" />
       <workItem from="1590603928338" duration="54000" />
-      <workItem from="1590604421485" duration="900000" />
+      <workItem from="1590604421485" duration="1407000" />
     </task>
+    <task id="LOCAL-00001" summary="added readme">
+      <created>1590605926197</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590605926197</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added readme">
+      <created>1590605957456</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590605957456</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="added readme" />
   </component>
   <component name="WindowStateProjectService">
     <state x="424" y="273" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588773084830">
@@ -136,30 +180,30 @@
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="695" y="421" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1177@0.23.1920.1177" timestamp="1590605819362" />
-    <state x="284" y="179" key="CommitChangelistDialog2" timestamp="1590605926015">
+    <state x="284" y="179" key="CommitChangelistDialog2" timestamp="1590605957308">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="284" y="179" key="CommitChangelistDialog2/0.23.1920.1177@0.23.1920.1177" timestamp="1590605926015" />
-    <state width="1134" height="198" key="GridCell.Tab.0.bottom" timestamp="1590604815239">
+    <state x="284" y="179" key="CommitChangelistDialog2/0.23.1920.1177@0.23.1920.1177" timestamp="1590605957308" />
+    <state width="1341" height="198" key="GridCell.Tab.0.bottom" timestamp="1590606791578">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state width="1878" height="405" key="GridCell.Tab.0.bottom/-125.-1057.1920.1057/0.23.1920.1177@0.23.1920.1177" timestamp="1589908827292" />
-    <state width="1134" height="198" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1590604815239" />
-    <state width="1134" height="198" key="GridCell.Tab.0.center" timestamp="1590604815238">
+    <state width="1341" height="198" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1590606791578" />
+    <state width="1341" height="198" key="GridCell.Tab.0.center" timestamp="1590606791577">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state width="1878" height="405" key="GridCell.Tab.0.center/-125.-1057.1920.1057/0.23.1920.1177@0.23.1920.1177" timestamp="1589908827292" />
-    <state width="1134" height="198" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1590604815238" />
-    <state width="1134" height="198" key="GridCell.Tab.0.left" timestamp="1590604815238">
+    <state width="1341" height="198" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1590606791577" />
+    <state width="1341" height="198" key="GridCell.Tab.0.left" timestamp="1590606791577">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state width="1878" height="405" key="GridCell.Tab.0.left/-125.-1057.1920.1057/0.23.1920.1177@0.23.1920.1177" timestamp="1589908827291" />
-    <state width="1134" height="198" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1590604815238" />
-    <state width="1134" height="198" key="GridCell.Tab.0.right" timestamp="1590604815239">
+    <state width="1341" height="198" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1590606791577" />
+    <state width="1341" height="198" key="GridCell.Tab.0.right" timestamp="1590606791578">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state width="1878" height="405" key="GridCell.Tab.0.right/-125.-1057.1920.1057/0.23.1920.1177@0.23.1920.1177" timestamp="1589908827292" />
-    <state width="1134" height="198" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1590604815239" />
+    <state width="1341" height="198" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1590606791578" />
     <state width="1878" height="405" key="GridCell.Tab.1.bottom" timestamp="1589908827293">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
@@ -180,14 +224,19 @@
     </state>
     <state width="1878" height="405" key="GridCell.Tab.1.right/-125.-1057.1920.1057/0.23.1920.1177@0.23.1920.1177" timestamp="1589908827293" />
     <state width="1878" height="405" key="GridCell.Tab.1.right/0.23.1920.1177@0.23.1920.1177" timestamp="1589656647721" />
-    <state x="343" y="318" key="Vcs.Push.Dialog.v2" timestamp="1590605927979">
+    <state x="245" y="217" key="SettingsEditor" timestamp="1590606110271">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="343" y="318" key="Vcs.Push.Dialog.v2/0.23.1920.1177@0.23.1920.1177" timestamp="1590605927979" />
+    <state x="245" y="217" key="SettingsEditor/0.23.1920.1177@0.23.1920.1177" timestamp="1590606110271" />
+    <state x="343" y="318" key="Vcs.Push.Dialog.v2" timestamp="1590605958910">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="343" y="318" key="Vcs.Push.Dialog.v2/0.23.1920.1177@0.23.1920.1177" timestamp="1590605958910" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/newsracer$Compare.coverage" NAME="Compare Coverage Results" MODIFIED="1589666508652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/newsracer$UserInterface.coverage" NAME="UserInterface Coverage Results" MODIFIED="1589666515360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/newsracer$main.coverage" NAME="main Coverage Results" MODIFIED="1590604815229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/newsracer$getArticle.coverage" NAME="getArticle Coverage Results" MODIFIED="1590606791567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
 </project>
