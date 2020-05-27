@@ -1,0 +1,4 @@
+!!!character by character comparision!!!
+
+1. read in line
+2. read
